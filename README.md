@@ -1,5 +1,7 @@
 # WastEd Frontend
 
+[DEMO LINK](https://youtu.be/pYFi0zbEImc)
+
 This is the frontend for the WastEd application, which helps schools monitor and reduce food container waste by tracking takeout containers in trash bins using Raspberry Pi cameras and AI analysis.
 
 ## Features
